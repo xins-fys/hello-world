@@ -1,5 +1,4 @@
 # hello-world
-start use github properly
 
 Going through the hello-world project
 learn the flow
